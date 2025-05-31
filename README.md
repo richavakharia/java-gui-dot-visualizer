@@ -45,6 +45,8 @@ COLOR,X,Y,RADIUS
 
 Example:
 
+RED,100,200,20
+
 ## Running the Program
 
 1. Clone the repository or download the files.
