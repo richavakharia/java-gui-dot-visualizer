@@ -41,3 +41,32 @@ The application structure follows a modular design with a focus on data validati
 
 Each line in the input file must include:
 
+COLOR,X,Y,RADIUS
+
+Example:
+
+## Running the Program
+
+1. Clone the repository or download the files.
+2. Open the project in Eclipse or any Java IDE.
+3. Ensure all source files are in a `dotlab` package.
+4. Compile and run `DotDisplay.java`.
+5. Click "Read..." to open the input file (e.g. `3dots.txt`) and view the visual output.
+
+## Technologies Used
+
+- Java
+- AWT/Swing
+- Exception Handling
+- File I/O
+- Eclipse IDE
+
+## Reflections
+
+This project helped me strengthen my understanding of file parsing, object-oriented principles, custom exception design, and basic GUI programming. Debugging and validation played a crucial role in ensuring robustness and user-friendly feedback when dealing with bad input.
+
+---
+
+**Author**: Richa Vakharia  
+**Course**: CS 46B – Data Structures & Algorithms in Java
+
